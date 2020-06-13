@@ -9,5 +9,5 @@
 # Görünüm
 
 <p align="center">
-    <img src="https://github.com/SouL-H/Design-Pattern/blob/master/Command%20Pattern/img/img.jpg?raw=true"  alt="Observer">
+    <img src="https://github.com/SouL-H/Data_Visualization/blob/master/Covid-19/img/Corona.png?raw=true"  alt="Observer">
 </p>
